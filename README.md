@@ -43,7 +43,7 @@ npm run build
 yarn build
 ```
 
-#Документация
+# Документация
 Проект построен на архитектуре MVP (Model-View-Presenter)
 
 ## Основные классы:
